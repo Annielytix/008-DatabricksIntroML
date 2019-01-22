@@ -3,11 +3,11 @@
 Updated by Laura Edell, Sr. Data Scientist | Microsoft MSUS CTO CSU Organization
 <br>Date: 10/15/2018
 
-####  Got Data? An Introduction to Using Spark on Azure Databricks
+####  Sprinkling Just a Little: Introduction to Cooking Spark on Azure Databricks
 
 Use the challenges in this repo to get started using Spark in Azure Databricks.
 
-0a. Start by following the [Setup Guide](Student/Guides/Challenge0-SetupGuide.docx) to prepare your Azure environment. 
+0a. Start by following the [Setup Guide](Student/Guides/Challenge0-SetupGuide.docx) to prepare your Azure environment. (Administrators or others facilitating workshop at a later time can use the https://aka.ms/administrationForDatabricksWorkshops.dbc to set up Azure Databricks clusters for attendees.
 
 0b. Download the [Challenge Files](Student/Resources/Databricks_Challenges_updated.zip) from this repo or fork this repository to your own. After you successfully complete both steps listed as 0a and 0b, please complete the challenges in the following in order:
 
